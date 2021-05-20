@@ -9,25 +9,26 @@ me:
     - "Security/Privacy"
     - "Keep it simple - stupid"
   technologies:
+    - Git
     - Ansible
     - Rancher
-    - Git
 ```
 <br>
 
 <p align="center">
 	<strong>Consider giving my work a :star: to show some :heart:</strong>
 </p>
-<hr>
+
+---
 
 <p align="center">
    <i>Any sufficiently advanced technology is indistinguishable from magic.</i>
    <br>
    <i>If you are the smartest person in the room, you are in the wrong room.</i>
    <br>
-<br>
+   <br>
 
-<a target="_blank" href="https://zzenld.gitlab.io/"><img src="https://img.shields.io/badge/-WEB-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
+<a target="_blank" href="https://zzenld.gitlab.io/"><img src="https://img.shields.io/badge/-Hugo-FF4088?style=for-the-badge&logo=Hugo&logoColor=white"></img></a>
 <a target=„_blank“ href="https://github.com/zzenld"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"></img></a>
 <a target="_blank" href="https://gitlab.com/zzenld"><img src="https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=GitLab&logoColor=white"></img></a>
 <br>

@@ -3,15 +3,19 @@
 ```yaml
 me:
   name: ZzenlD
-  role: "Software Engineer"
+  role: Software Engineer
   principles:
     - Open Source
-    - Secure
     - Minimalism/KISS
+    - Security/Compliance/Integrity
   tools:
     - Git
     - Ansible
     - Rancher
+  hobbies:
+    - Travel and meet friends
+    - Fire department and civil protection
+    - Design and operate secure IT solutions
 ```
 <br>
 
